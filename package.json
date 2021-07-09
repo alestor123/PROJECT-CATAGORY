@@ -1,0 +1,32 @@
+{
+  "name": "project-catagory",
+  "version": "1.0.0",
+  "description": "This is a simple for generating a project catagory in a markdown file ",
+  "main": "App.js",
+  "scripts": {
+    "test": "standard && node test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/PROJECT-CATAGORY.git"
+  },
+  "keywords": [
+    "github",
+    "npm",
+    "npmjs",
+    "cli",
+    "markdown",
+    "readme",
+    "profile",
+    "project",
+    "projects",
+    "catagory",
+    "cli"
+  ],
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/PROJECT-CATAGORY/issues"
+  },
+  "homepage": "https://github.com/alestor123/PROJECT-CATAGORY#readme"
+}
