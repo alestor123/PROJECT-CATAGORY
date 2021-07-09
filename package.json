@@ -28,5 +28,13 @@
   "bugs": {
     "url": "https://github.com/alestor123/PROJECT-CATAGORY/issues"
   },
-  "homepage": "https://github.com/alestor123/PROJECT-CATAGORY#readme"
+  "homepage": "https://github.com/alestor123/PROJECT-CATAGORY#readme",
+  "devDependencies": {
+    "standard": "^16.0.3",
+    "tap": "^15.0.9",
+    "tap-spec": "^5.0.0"
+  },
+  "dependencies": {
+    "comment-mark": "^1.0.0"
+  }
 }
