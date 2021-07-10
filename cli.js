@@ -7,6 +7,8 @@ try {
   const infille = argv.i || argv.input
   const outFile = argv.o || argv.output
   writeFileSync(outFile, pcj(JSON.parse(readFileSync(infille).toString()), outFile, argv.t || argv.tag))
+  console.log(chalk.greenBright.bold('Done !!'))
 } catch (e) {
   console.log(chalk.redBright.bold('Oops we got a problem'))
+  process.exit(1)
 }
