@@ -36,6 +36,7 @@
   },
   "dependencies": {
     "chalk": "^4.1.1",
-    "comment-mark": "^1.0.0"
+    "comment-mark": "^1.0.0",
+    "minimist": "^1.2.5"
   }
 }
