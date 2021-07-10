@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/alestor123/PROJECT-CATAGORY.git"
   },
+  "bin": {
+    "project-catagory": "cli.js"
+  },
   "keywords": [
     "github",
     "npm",
