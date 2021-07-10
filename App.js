@@ -12,7 +12,7 @@ function mdg (data) {
     const mainc = '\n' + '- [' + element.name + '](' + element.url + ') : ' + element.description
     if (!(d === element.category)) {
       d = element.category
-      md += '\n' + '### ' + d + mainc
+      md += '\n' + '## ' + d + mainc
     } else md += mainc
   })
   return md

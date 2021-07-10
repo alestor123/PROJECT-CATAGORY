@@ -35,6 +35,7 @@
     "tap-spec": "^5.0.0"
   },
   "dependencies": {
+    "chalk": "^4.1.1",
     "comment-mark": "^1.0.0"
   }
 }
