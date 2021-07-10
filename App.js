@@ -22,3 +22,4 @@ function markcomment (data, path, name) {
   mainobj[name || 'projects'] = mdg(data)
   return commentMark(readFileSync(path).toString(), mainobj)
 }
+// credits:got the idea from a person i follow but dont know the name
