@@ -1,18 +1,15 @@
 [
 	{
 		"name": "AWESOME",
-		"npm": "awesome",
 		"description": "lol",
 		"category": "Services",
-		"url": "https://github.com/uanme/awesome",
-		"websiteUrl": ".now.sh"
+		"url": "https://github.com/uanme/awesome"
 	},
     {
 		"name": "AWESOME2",
 		"npm": "awesome",
 		"description": "lol",
 		"category": "lal",
-		"url": "https://github.com/uanme/awesome",
-		"websiteUrl": ".now.sh"
+		"url": "https://github.com/uanme/awesome"
 	}
 ]
